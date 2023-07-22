@@ -1,0 +1,46 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1549778399-f94fd24d4697?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=700&q=60");
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+h1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: whitesmoke;
+  }
+
+  h2, p {
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    color: aliceblue;
+  }
+
+  .increment-btn, .decrement-btn {
+    background-color: green;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: azure;
+    font-weight: 200;
+    cursor: pointer;
+  }
+
+  .save-btn{
+    background-color: red;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: wheat;
+    cursor: pointer;
+  }
+
+  .increment-btn:hover{
+    background-color: blueviolet;
+  }
+
+  .save-btn:hover{
+    background-color: blue;
+  }
